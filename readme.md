@@ -1,11 +1,11 @@
 # Simple Servlet based server, meant for XSS demoes ONLY
-It is Created from smaller samples, and therefore has a lot of code-duplication. Live with that, our write your own server(s) ;-)
+The project is Created from smaller samples, and therefore has a lot of code-duplication. Live with that, our write your own server(s) ;-)
   
 ## Setting up
 This project can be used with an in-memory database (default), or an external MySQL database
 
 ### In Memory Database
-- This is the default, and you should be able to run the project right out of the box af having forked it.
+- This is the default, and you should be able to run the project right out of the box, after having forked it.
 - **Note** that ALL data will be lost, when you restart the server
 
 ### Using an external (MySQL) database
