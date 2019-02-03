@@ -1,5 +1,7 @@
 # Simple Servlet based server, meant for XSS demoes ONLY
 The project is Created from smaller samples, and therefore has a lot of code-duplication. Live with that, our write your own server(s) ;-)
+
+The project uses server side rendering only, that is no JavaScript, somehow similar to what you did on second semester
   
 ## Setting up
 This project can be used with an in-memory database (default), or an external MySQL database
